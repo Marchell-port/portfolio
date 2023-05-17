@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+.header a{
+    font-family: 'Arial';
+    font-size: medium;
+    color: antiquewhite;
+}
+body {
+    background-image: url(images/johnpaul-2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+th {
+    background-color: white;
+}
+td {
+    background-color: black;
+}
+li{
+    color: azure;
+}
